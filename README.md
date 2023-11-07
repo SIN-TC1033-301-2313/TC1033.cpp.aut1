@@ -26,3 +26,9 @@ Ej.- cd ../../
 - 08-for (```cd assignments/08-for```)
 - 09-do-while (```cd assignments/09-do-while```)
 - 10-funciones (```cd assignments/10-funciones```)
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
